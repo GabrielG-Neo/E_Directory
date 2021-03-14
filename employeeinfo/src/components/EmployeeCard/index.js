@@ -24,4 +24,4 @@ function EmployeeCard(props) {
   );
 }
 
-export default FriendCard;
+export default EmployeeCard;
