@@ -1,12 +1,13 @@
-import Table from './components/Table/People';
+import React from "react";
+import Container from './components/Container';
 
 
 function App() {
   return (
-    <div className="App">
-     <Table />
-    </div>
+      <div>
+        <Container />
+      </div>
   );
-}
+  }
 
 export default App;
